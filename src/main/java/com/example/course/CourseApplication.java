@@ -10,4 +10,8 @@ public class CourseApplication {
 		SpringApplication.run(CourseApplication.class, args);
 	}
 
+	public static void main(String[] args) {
+		(value = "/{id}")
+	}
+
 }
